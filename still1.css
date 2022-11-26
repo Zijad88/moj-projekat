@@ -1,0 +1,35 @@
+#sekcija {
+    color: red;
+    background-color: black; width: fit-content;
+    font: 500;
+    font-size: 20px;
+    font-family: Trebuchet 'Trebuchet MS';
+    font-style: bold;
+}
+
+#slika {
+    image-rendering: crisp-edges;
+}
+
+#hobi1 {
+    color: yellow;
+    background-color: green; width: fit-content;
+    font: 600;
+    font-size: 30px;
+    font-family: Arial;
+    font-style: italic;
+}
+
+#hobi2 {
+    color: blue;
+    background-color: rgb(41, 214, 185); width: fit-content;
+}
+
+#link-facebook {
+    color: blue;
+    background-color: rgb(25, 30, 36);
+    font-style: bold;
+    font-size: 40px;
+    font: 700;
+    font-family: Georgia;
+}
